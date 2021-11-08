@@ -1,0 +1,49 @@
+COMP 272 HW7 Mo Patel 11/8
+Algorithm Performance Results
+
+
+Algorithm 1B:
+N=100,000
+K=10,000
+Time: 42868ms
+
+N=1,000,000
+K=100,000
+Time: Unknown. Takes too long on my computer.
+
+N=10,000,000
+K=1,000,000
+Time: Unknown. Takes too long on my computer.
+
+
+
+Algorithm 6A:
+N=100,000
+K=10,000
+Time: 75ms
+
+N=1,000,000
+K=100,000
+Time: 324ms
+
+N=10,000,000
+K=1,000,000
+Time: 4069ms
+
+
+
+Algorithm 6B:
+N=100,000
+K=10,000
+Time: 68ms
+
+N=1,000,000
+K=100,000
+Time: 297ms
+
+N=10,000,000
+K=1,000,000
+Time: 3672ms
+
+
+
